@@ -1,0 +1,169 @@
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\appsettings.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.exe
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.deps.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.runtimeconfig.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.runtimeconfig.dev.json
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.pdb
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.Views.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Jewellery Management System.Views.pdb
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Jewellery Management System\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.csprojAssemblyReference.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.AssemblyInfoInputs.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.AssemblyInfo.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.csproj.CoreCompileInputs.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.RazorAssemblyInfo.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.RazorAssemblyInfo.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.TagHelpers.input.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.TagHelpers.output.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.RazorCoreGenerate.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Bill\Bill.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Bill\Create.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\CustomersWithDebt.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\EditDebt.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\FindCustomer.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\GetId.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Customer\ViewCustomer.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Home\EditOwner.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Home\GeneratePreviousBill.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Home\OwnerSignUp.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\OwnerDebt\Create.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\OwnerDebt\Delete.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\OwnerDebt\Edit.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\OwnerDebt\Success.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\OwnerDebt\ViewOwnerDebt.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Product\products.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.RazorTargetAssemblyInfo.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.RazorTargetAssemblyInfo.cs
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.Views.pdb
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.csproj.CopyComplete
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\staticwebassets\Jewellery Management System.StaticWebAssets.Manifest.cache
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\staticwebassets\Jewellery Management System.StaticWebAssets.xml
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.dll
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.pdb
+D:\Jewellery Management System\obj\Release\netcoreapp3.1\Jewellery Management System.genruntimeconfig.cache

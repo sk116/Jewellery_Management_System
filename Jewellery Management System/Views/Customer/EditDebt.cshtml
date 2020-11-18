@@ -1,0 +1,16 @@
+﻿@model Jewellery_Management_System.Models.Customer
+<h1>Customer Name :- @Model.Name</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditDebt" method="post" asp-controller="Customer">
+            <input type="hidden" asp-for="CustomerId" />
+            <div class="form-group">
+                <label asp-for="Debt" class="control-label">Debt(Rupees)</label>
+                <input asp-for="Debt" class="form-control" value="@Model.Debt" />
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Save"/>
+            </div>
+        </form>
+    </div>
+</div>

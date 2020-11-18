@@ -1,0 +1,14 @@
+﻿<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GeneratePreviousBill" asp-controller="Bill" method="post" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Bill ID</label>
+                <input class="form-control" name="id" />
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Generate" />
+            </div>
+        </form>
+    </div>
+</div>

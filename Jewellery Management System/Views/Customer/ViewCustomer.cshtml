@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Jewellery_Management_System.Models.Customer>
+
+<table class="table">
+    <thead></thead>
+    <tbody class="h4">
+        <tr class="text-center">
+            <td colspan="5"><h1><strong>Customer Details</strong></h1></td>
+        </tr>
+        <tr>
+            <td>Customer ID</td>
+            <td>Customer Name</td>
+            <td>Mobile Number</td>
+            <td>Debt Amount</td>
+        </tr>
+@foreach(var cust in Model)
+{
+    <tr>
+        <td>@Html.DisplayFor(modelItem => cust.CustomerId)</td>
+        <td>@Html.DisplayFor(modelItem => cust.Name)</td>
+        <td>@Html.DisplayFor(modelItem => cust.MobileNo)</td>
+        <td>@Html.DisplayFor(modelItem => cust.Debt)</td>
+    </tr>
+}
+    </tbody>
+</table>
+<footer>
+    <div class="container">
+        <a asp-action="CustomersWithDebt" class="btn btn-danger m-3">Customers With Debt</a>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary m-3">Home</a>
+    </div>
+</footer>

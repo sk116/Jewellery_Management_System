@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Product> 
+
+
+<h2>Create Bill</h2>
+<h3>The Bill is for Customer @ViewBag.Name</h3>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Bill" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @for (int i=1;i<=ViewBag.num;i++)
+                {
+                    <select name="products" class="dropdown m-2">
+                        @foreach (var item in Model)
+                        {
+                            <option class="dropdown-item" value="@item.ProductId">@item.Name (@item.Weight gms)</option>
+                        }
+                    </select>
+                }
+
+            </div>
+            
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

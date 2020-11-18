@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Jewellery_Management_System.Models.Customer>
+
+<table class="table">
+    <thead></thead>
+    <tbody class="h4">
+        <tr class="text-center">
+            <td colspan="5"><h1><strong>Customer Details</strong></h1></td>
+        </tr>
+        <tr>
+            <td>Customer ID</td>
+            <td>Customer Name</td>
+            <td>Mobile Number</td>
+            <td>Debt Amount</td>
+            <td>Operations</td>
+        </tr>
+        @foreach (var cust in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => cust.CustomerId)</td>
+                <td>@Html.DisplayFor(modelItem => cust.Name)</td>
+                <td>@Html.DisplayFor(modelItem => cust.MobileNo)</td>
+                <td>@Html.DisplayFor(modelItem => cust.Debt)</td>
+                <td>
+                    <a asp-action="EditDebt" class="btn btn-dark" asp-route-id="@cust.CustomerId">Edit Debt</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<footer>
+    <div class="container">
+        <a asp-action="GetId" asp-controller="Customer" class="btn btn-success m-3">Edit Debt By Customer ID</a>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary m-3">Home</a>
+    </div>
+</footer>

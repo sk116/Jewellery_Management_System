@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Jewellery_Management_System.Models.Owner
+<div class="text-center">
+    <h1><strong>@Html.DisplayFor(model => model.ShopName)</strong></h1>
+    <h4>Gold Price : @Model.GoldPrice</h4>
+    <a class="btn btn-success" asp-controller="Product" asp-action="Products"> Products </a>
+    <br /><br />
+    <a class="btn btn-dark" asp-controller="OwnerDebt" asp-action="ViewOwnerDebt"> OwnerDebts </a>
+    <br /><br />
+    <a class="btn btn-light" asp-controller="Customer" asp-action="Create"> Create Bill </a>
+    <br /><br />
+    <a class="btn btn-primary" asp-controller="Customer" asp-action="ViewCustomer"> Customers </a>
+    <br /><br />
+    <a class="btn btn-info" asp-controller="Home" asp-action="GeneratePreviousBill"> Generate Previous Bill </a>
+</div>

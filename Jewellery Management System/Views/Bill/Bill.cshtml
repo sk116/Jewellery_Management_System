@@ -1,0 +1,61 @@
+﻿@model Jewellery_Management_System.Models.All;
+
+<div class="card bg-light">
+    <div class="card-header">
+        <div class="container">
+            <h4 class="text-sm-left">ID: @Html.DisplayFor(model => model.bill.BillId)</h4>
+            <h1 class="text-capitalize text-center h1">@Html.DisplayFor(model => model.owner.ShopName)</h1><br />
+            <h4 class="text-sm-right">Date: @Html.DisplayFor(model => model.bill.BillDate)</h4>
+        </div>
+
+        <div class="container">
+            <h4 class="text-sm-left">@Html.DisplayFor(model => model.owner.Name)</h4>
+            <h4 class="text-sm-right">Mobile Number:@Html.DisplayFor(model => model.owner.MobileNo)</h4>
+        </div>
+
+    </div>
+    <div class="card-body">
+        <div class="container">
+            <h3 class="text-center">Customer Details</h3><br />
+            <table class="table">
+                <tr class="row">
+                    <td class="col-sm-4">
+                        <h4>ID: @Html.DisplayFor(model => model.customer.CustomerId)</h4>
+                    </td>
+                    <td class="col-sm-4">
+                        <h4>Name: @Html.DisplayFor(model => model.customer.Name)</h4>
+                    </td>
+                    <td class="col-sm-4">
+                        <h4>Mobile Number: @Html.DisplayFor(model => Model.customer.MobileNo)</h4>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br />
+        <div class="container">
+            <h3 class="text-center">Products Purchased Details</h3>
+            <table class="table table-bordered">
+                <tr>
+                    <td>Product Name</td>
+                    <td>Product Weight(gms)</td>
+                    <td>Labour Charge(Rupees)</td>
+                </tr>
+                @foreach (var p in Model.products)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(pdt => p.Name)</td>
+                        <td>@Html.DisplayFor(pdt => p.Weight)</td>
+                        <td>@Html.DisplayFor(pdt => p.LabourCharge)</td>
+                    </tr>
+                }
+            </table>
+
+        </div>
+    </div>
+    <div class="card-footer text-center">
+        <h4> Total Weight of Jewellery Purchased (gms) : @Html.DisplayFor(model => model.bill.TotalWeight) </h4><br />
+        <h4> Current Gold Price : @Html.DisplayFor(model => model.bill.CurrentGoldPrice) </h4>
+        <h4> Total Amount (Rupees) : @Html.DisplayFor(model => model.bill.TotalAmount)</h4>
+    </div>
+</div>
+

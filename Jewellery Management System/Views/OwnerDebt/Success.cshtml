@@ -1,0 +1,17 @@
+﻿@model Jewellery_Management_System.Models.OwnerDebt;
+
+
+<a asp-action="Create" asp-controller="OwnerDebt">Create New</a><br />
+<div class="table-bordered table-responsive" border="1">
+    <div class="row">
+        <div class="col-xs-4 col-md-4"><h1>Creditor Name</h1></div>
+        <div class="col-xs-4 col-md-4"><h1>Product Name</h1></div>
+        <div class="col-xs-4 col-md-4"><h1>Debt Amount</h1></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-md-4"><h1>@Model.CreditorName</h1></div>
+        <div class="col-xs-4 col-md-4"><h1>@Model.ProductName</h1></div>
+        <div class="col-xs-4 col-md-4"><h1>@Model.DebtAmount</h1></div>
+    </div>
+</div>
+<a asp-action="Index" asp-controller="Home" class="btn btn-primary"> Back to Homepage </a>

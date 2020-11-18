@@ -1,0 +1,25 @@
+﻿@model Jewellery_Management_System.Models.OwnerDebt
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" asp-controller="OwnerDebt">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CreditorName" class="control-label"></label>
+                <input asp-for="CreditorName" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="DebtAmount" class="control-label"></label>
+                <input asp-for="DebtAmount" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

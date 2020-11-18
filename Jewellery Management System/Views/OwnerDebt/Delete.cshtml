@@ -1,0 +1,33 @@
+﻿@model Jewellery_Management_System.Models.OwnerDebt
+<h3 class="bg-danger">Please make Sure before you click on Delete</h3>
+
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(Model => Model.CreditorName)
+    </dt>
+    <dt class="col-sm-2">
+        @Html.DisplayFor(Model => Model.CreditorName)
+    </dt>
+</dl>
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(Model => Model.ProductName)
+    </dt>
+    <dt class="col-sm-2">
+        @Html.DisplayFor(Model => Model.ProductName)
+    </dt>
+</dl>
+<dl class="row">
+
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(Model => Model.DebtAmount)
+    </dt>
+    <dt class="col-sm-2">
+        @Html.DisplayFor(Model => Model.DebtAmount)
+    </dt>
+</dl>
+    <form asp-action="Delete" method="post" asp-controller="OwnerDebt">
+        <input type="hidden" asp-for="Id"/>
+        <input type="submit" value="Delete" class="btn btn-danger">
+        <a asp-action="viewOwnerDebt" asp-controller="OwnerDebt" class="btn btn-primary">View Owners List</a>
+    </form>
