@@ -25,7 +25,7 @@ Jewellery Management System is a web-based inventory management application deve
 * SQL Server or another supported database server.
 
 ### **Installation**
-* Clone the repository: git clone https://github.com/sk116/JewelleryManagementSystem.git
+* Clone the repository: git clone https://github.com/sk116/Jewellery_Management_System.git
 * Open the project in your preferred IDE.
 * Configure the database connection in the appsettings.json file.
 * Run the application.
